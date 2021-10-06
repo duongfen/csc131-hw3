@@ -2,7 +2,7 @@
 
 # Update the students list with your name in alphabetical order by first name.
 # Example: students = ['Fiz Ban', 'Foo bar']
-students = []
+students = ['Vadym Kharchenko']
 professor = ['Gary Kane']
 course = ['CSC 131']
 
