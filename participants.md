@@ -5,5 +5,6 @@ A list of participants in CSC 131
 
 * Connor Craig
 * Gary Kane
+* Karen Xue
 * Steven Ho
 * Vadym Kharchenko
