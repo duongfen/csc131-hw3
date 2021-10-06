@@ -5,6 +5,7 @@
 students = ['Vadym Kharchenko']
 professor = ['Gary Kane']
 course = ['CSC 131']
+students.sort()
 
 print("%s's %s is the best!" % (professor[0], course[0]))
 print("Students: %s" % ', '.join(map(str, students)))
