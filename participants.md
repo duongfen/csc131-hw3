@@ -7,4 +7,5 @@ A list of participants in CSC 131
 * Gary Kane
 * Karen Xue
 * Steven Ho
+* Tyler Colaizzi
 * Vadym Kharchenko
