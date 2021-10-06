@@ -1,0 +1,4 @@
+Name:		Connor Craig
+Email:		ccraig2@csus.edu
+Github:		foodwrap
+Hobbies:	Video Games
