@@ -3,7 +3,7 @@
 # Update the students list with your name in alphabetical order by first name.
 # This list will increase as more students complete the assignment.
 # Example: students = ['Fiz Ban', 'Foo bar']
-students = ['Vadym Kharchenko']
+students = ['Steven Ho', 'Vadym Kharchenko']
 professor = ['Gary Kane']
 course = ['CSC 131']
 
