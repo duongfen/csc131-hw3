@@ -10,6 +10,7 @@ A list of participants in CSC 131
 <<<<<<< HEAD 
 =======
 * Lauren Prather
+* LJ Matias
 * Miles Brown
 >>>>>>> 4bceb577cfa3de32f8ba5d6c2ece9755d4f0e9ed
 * Steven Ho
