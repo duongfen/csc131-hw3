@@ -3,7 +3,11 @@
 # Update the students list with your name in alphabetical order by first name.
 # This list will increase as more students complete the assignment.
 # Example: students = ['Fiz Ban', 'Foo bar']
+<<<<<<< HEAD
 students = ['Arthur Gritsyuk','Connor Craig','Karen Xue', 'Lauren Prather', 'Steven Ho','Tyler Colaizzi','Vadym Kharchenko','LJ Matias','Andrew Xiong']
+=======
+students = ['Arthur Gritsyuk','Connor Craig','Karen Xue', 'Lauren Prather','Miles Brown', 'Steven Ho','Tyler Colaizzi','Vadym Kharchenko']
+>>>>>>> e63aad162ec8688292457210887bdb11c93cf38b
 professor = ['Gary Kane']
 course = ['CSC 131']
 
