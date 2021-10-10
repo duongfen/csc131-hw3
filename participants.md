@@ -5,6 +5,7 @@ A list of participants in CSC 131
 
 * Andrew Xiong
 * Arthur Gritsyuk
+* Brandon Balinado
 * Connor Craig
 * Gary Kane
 * Jesse Quach
