@@ -8,11 +8,12 @@ A list of participants in CSC 131
 * Connor Craig
 * Gary Kane
 * Karen Xue
-<<<<<<< HEAD 
+<<<<<<< HEAD
 =======
 * Lauren Prather
 * LJ Matias
 * Miles Brown
+* Raul Arambula
 >>>>>>> 4bceb577cfa3de32f8ba5d6c2ece9755d4f0e9ed
 * Steven Ho
 * Tyler Colaizzi
