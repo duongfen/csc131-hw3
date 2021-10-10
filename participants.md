@@ -7,6 +7,7 @@ A list of participants in CSC 131
 * Arthur Gritsyuk
 * Connor Craig
 * Gary Kane
+* Jesse Quach
 * Karen Xue
 <<<<<<< HEAD
 =======
