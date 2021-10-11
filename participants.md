@@ -17,6 +17,7 @@ A list of participants in CSC 131
 * LJ Matias
 * Miles Brown
 * Raul Arambula
+* Spencer Kun
 * Steven Ho
 * Tyler Colaizzi
 * Vadym Kharchenko
