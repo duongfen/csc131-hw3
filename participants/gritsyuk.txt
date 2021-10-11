@@ -1,4 +1,4 @@
 Name:           Arthur Gritsyuk
 Email:          agritsyuk@csus.edu
-GitHub:         kane-csus
+GitHub:         agritsyuk1
 Favorite Phone OS: Andriod
