@@ -5,19 +5,20 @@
 # Example: students = ['Fiz Ban', 'Foo bar']
 
 students = ['Andrew Xiong',
-			'Arthur Gritsyuk',
-			'Brandon Balinado',
-			'Connor Craig',
-			'Jesse Quach',
-			'Karen Xue',
-			'Kenneth Munk',
-			'Lauren Prather',
-			'Miles Brown',
-			'Raul Arambula',
-			'Steven Ho',
-			'Tyler Colaizzi',
-			'Vadym Kharchenko',
-			'LJ Matias']
+        'Arthur Gritsyuk',
+        'Brandon Balinado',
+        'Connor Craig',
+        'Ethan Ha',
+        'Jesse Quach',
+        'Karen Xue',
+        'Kenneth Munk',
+        'Lauren Prather',
+        'LJ Matias',
+        'Miles Brown',
+        'Raul Arambula',
+        'Steven Ho',
+        'Tyler Colaizzi',
+        'Vadym Kharchenko']
 
 professor = ['Gary Kane']
 course = ['CSC 131']
