@@ -10,6 +10,7 @@ A list of participants in CSC 131
 * Ethan Ha
 * Gary Kane
 * Jesse Quach
+* Jorge Costilla
 * Karen Xue
 * Kenneth Munk
 * Lauren Prather
