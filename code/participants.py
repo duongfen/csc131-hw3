@@ -17,6 +17,7 @@ students = ['Andrew Xiong',
         'LJ Matias',
         'Miles Brown',
         'Raul Arambula',
+	'Spencer Kun',
         'Steven Ho',
         'Tyler Colaizzi',
         'Vadym Kharchenko']
