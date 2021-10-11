@@ -10,6 +10,7 @@ A list of participants in CSC 131
 * Gary Kane
 * Jesse Quach
 * Karen Xue
+* Kenneth Munk
 <<<<<<< HEAD
 =======
 * Lauren Prather
